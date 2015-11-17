@@ -10,3 +10,4 @@ When prompted for `Path or URL of Emoji yaml file` you may use the following URL
 | Pack         | URL                                                                     |
 | ------------ | ----------------------------------------------------------------------- |
 | Office Space | https://raw.githubusercontent.com/spoike/emojis/master/officespace.yaml |
+| Swedish Fika | https://raw.githubusercontent.com/spoike/emojis/master/fika.yaml        |
