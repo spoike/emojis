@@ -7,4 +7,6 @@ No need to clone, just use the raw URLs for yaml files.
 
 When prompted for `Path or URL of Emoji yaml file` you may use the following URLs:
 
+| Pack         | URL                                                                     |
+| ------------ | ----------------------------------------------------------------------- |
 | Office Space | https://raw.githubusercontent.com/spoike/emojis/master/officespace.yaml |
