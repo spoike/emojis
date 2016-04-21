@@ -10,6 +10,7 @@ When prompted for `Path or URL of Emoji yaml file` you may use the following URL
 | Pack         | URL                                                                     |
 | ------------ | ----------------------------------------------------------------------- |
 | Animals      | https://raw.githubusercontent.com/spoike/emojis/master/animals.yaml     |
+| Clippy       | https://raw.githubusercontent.com/spoike/emojis/master/clippy.yaml      |
 | Mario 8-bit  | https://raw.githubusercontent.com/spoike/emojis/master/mario-8bit.yaml  |
 | Office Space | https://raw.githubusercontent.com/spoike/emojis/master/officespace.yaml |
 | Swedish Fika | https://raw.githubusercontent.com/spoike/emojis/master/fika.yaml        |
