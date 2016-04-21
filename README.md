@@ -8,12 +8,12 @@ the raw URLs for YAML files.
 When prompted for `Path or URL of Emoji YAML file` you may use the following
 URLs:
 
-| Pack         | URL                                                                     |
-| ------------ | ----------------------------------------------------------------------- |
-| Animals      | https://raw.githubusercontent.com/spoike/emojis/master/animals.yaml     |
-| Clippy       | https://raw.githubusercontent.com/spoike/emojis/master/clippy.yaml      |
-| Mario 8-bit  | https://raw.githubusercontent.com/spoike/emojis/master/mario-8bit.yaml  |
-| Office Space | https://raw.githubusercontent.com/spoike/emojis/master/officespace.yaml |
-| Swedish Fika | https://raw.githubusercontent.com/spoike/emojis/master/fika.yaml        |
+| Pack         | URL                                                                       |
+| ------------ | ------------------------------------------------------------------------- |
+| Animals      | <https://raw.githubusercontent.com/spoike/emojis/master/animals.yaml>     |
+| Clippy       | <https://raw.githubusercontent.com/spoike/emojis/master/clippy.yaml>      |
+| Mario 8-bit  | <https://raw.githubusercontent.com/spoike/emojis/master/mario-8bit.yaml>  |
+| Office Space | <https://raw.githubusercontent.com/spoike/emojis/master/officespace.yaml> |
+| Swedish Fika | <https://raw.githubusercontent.com/spoike/emojis/master/fika.yaml>        |
 
 [lambtron/emojipacks]: https://github.com/lambtron/emojipacks
